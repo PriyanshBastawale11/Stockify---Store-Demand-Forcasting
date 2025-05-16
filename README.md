@@ -37,6 +37,10 @@
 ├── demand_model_scalers.joblib
 ├── README.md # Documentation
 
+git add README.md
+git commit -m "Fix project structure formatting"
+git push
+
 yaml
 Copy
 Edit
