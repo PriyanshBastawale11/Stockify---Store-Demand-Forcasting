@@ -18,7 +18,6 @@
 
 ---
 
-<pre> ## 📁 Project Structure ``` ├── app.py # Flask web application ├── data_upload.py # Handles CSV upload ├── database.py # SQLite operations ├── model.py # Model loading and inference ├── generate_dataset.py # Generates synthetic dataset ├── requirements.txt # Dependencies list ├── retail_data.csv # Retail dataset ├── retail_data_historical.csv # Historical dataset ├── stockify.db # SQLite DB file ├── demand_model_dl.keras # Deep Learning model ├── demand_model_sarima.joblib # SARIMA model ├── demand_model_prophet.json # Prophet model ├── demand_model_prophet_history.csv ├── demand_model_encoders.joblib ├── demand_model_scalers.joblib ├── README.md # Documentation ``` </pre>
 
 ## 🛠️ Setup Instructions
 
